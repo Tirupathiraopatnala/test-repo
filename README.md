@@ -1,1 +1,1 @@
-This is a readme file updated version
+Readme file for test repository
